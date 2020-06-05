@@ -1,2 +1,2 @@
 # Mis_notebook
-Respaldo de conocimientos en Python utlizando Jupyter
+Respaldo de conocimientos en Python utlizando Jupyter mod
