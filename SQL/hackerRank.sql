@@ -29,4 +29,18 @@ SELECT CASE
         END
 FROM TRIANGLES;
 
+-- Caso de Profesiones agregar letra y contar totales
+--Query1
+SELECT CONCAT(Name, "(", LEFT(Occupation, 1), ")") 
+FROM OCCUPATIONS
+ORDER BY Name;
+
+-- Query2
+SELECT
+CONCAT("There are a total of ", COUNT(Occupation), " ", 
+       LOWER(Occupation), "s.") AS occurences
+FROM OCCUPATIONS
+GROUP BY Occupation
+ORDER BY occurences;
+
 
