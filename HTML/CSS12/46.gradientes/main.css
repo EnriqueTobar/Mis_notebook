@@ -1,0 +1,14 @@
+/* CSS soporta 140 color nombrados, también se puede tener rgb rgba hsl hsla */
+
+
+body {
+    background-color: #eee;
+}
+
+/* Primer argumento, dirección, color1, color2 */
+
+.fondo {
+
+    /*background-image: linear-gradient(to bottom right, white,#ccc); */
+    background-image: linear-gradient(-45deg, red, tomato, white,#ccc);
+}

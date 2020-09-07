@@ -1,0 +1,17 @@
+/* CSS soporta 140 color nombrados, también se puede tener rgb rgba hsl hsla */
+
+body {
+    background-color: #eee;
+}
+
+.box {
+    /* Primer valor sombra hacia abajo y la segunda hacia la derecha, con el tercer se logra un difuminado*/
+    /* Cambio la produndidad, boton apretado */
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3) inset; 
+    
+}
+
+.text {
+    color: white;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+}

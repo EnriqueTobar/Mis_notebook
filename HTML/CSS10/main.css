@@ -13,5 +13,6 @@ p   {
 }
 
 #invisible  {
-    display: none;
+    display: ;
+    overflow-x: scroll;
 }

@@ -1,0 +1,16 @@
+/* CSS soporta 140 color nombrados, también se puede tener rgb rgba hsl hsla */
+
+
+body {
+    background-color: #eee;
+}
+
+.fondo {
+    /* primero es el rojo, luego el verde, y el tercero es el azul, el último es la opacidad */
+    /* background-color: rgba(0, 0, 255, 0.2); */
+
+    /* Formato HSL: hue saturation lightness */
+    background-color: hsl(120, 60%, 70%);
+    opacity: 1; /* la opacidad afecta todo */
+ 
+}
