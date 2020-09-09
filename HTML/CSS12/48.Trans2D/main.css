@@ -1,0 +1,23 @@
+body {
+    background-color: #eee;
+}
+
+.box {
+    position: relative;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 1px 2px 2px rgba(0,0,0,0.2);
+    /* Agregamps propiedad de transform */
+    /*transform: translate(50px, 10px);*/
+    /*transform: scale(0.9,0.9); */
+    /*transform: skewX(-5deg); */
+    transform: skew(25deg, 10deg);
+}
+
+/*
+.box:hover {
+    transform: scale(1.2,1.2);
+}
+*/
