@@ -18,4 +18,4 @@ cinco puntos:
 
 ## Definición de Un Problema
 
-A. Desde el mundo de los negocios: cambio
+A. Desde el mundo de los negocios:
