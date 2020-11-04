@@ -55,4 +55,5 @@ while (x < 5) {
     x++
 }
 
-console.log('terminando loop')
+console.log('terminando loop');
+console.log('cambios desde linux');
