@@ -19,6 +19,3 @@ cinco puntos:
 ## Definición de Un Problema
 
 A. Desde el mundo de los negocios:
-prueba
-prueba2
-prueba 3
